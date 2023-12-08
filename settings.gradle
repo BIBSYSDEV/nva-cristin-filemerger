@@ -1,2 +1,3 @@
 rootProject.name = 'nva-filemerger'
+include 'brage-record'
 
