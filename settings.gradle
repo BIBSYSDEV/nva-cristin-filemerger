@@ -1,3 +1,4 @@
 rootProject.name = 'nva-filemerger'
 include 'brage-record'
+include 'excel-converter'
 
